@@ -1,3 +1,7 @@
+> **English summary.** An AWS architecture for a web application that faces sudden spikes in requests, designed for Stone. The case came from TV advertising, when many viewers can visit the site at the same moment.
+>
+> Team project from my Computer Science degree at Inteli (2023). This is a fork of the original repository; the documentation below is in Portuguese.
+
 # Grupo-5
 
 <table>
